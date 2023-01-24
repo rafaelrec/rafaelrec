@@ -5,7 +5,7 @@
 - 🔥 Begginer Front-End Developer.
 - ⌛ Historian
 
-- 🔭 I’m currently focused on getting better at JavaScript hardskills.
+- 🔭 I’m currently focused on improving JavaScript skills.
 
 
 ## I'm Familiar with:
